@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+.env/
+
+# AWS Credentials
+.aws/
+
+# OS
+.DS_Store
